@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1624138867 source:c:\users\danie\desktop\juego_20\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	"rlutil.h"
+	"funciones-juego.h"
+
+1623419914 c:\users\danie\desktop\juego_20\funciones.h
+	<windows.h>
+
+1624283798 c:\users\danie\desktop\juego_20\funciones-juego.h
+
+1624056202 source:c:\users\54114\onedrive - frgp.utn.edu.ar\frgp -utn\lab 1\tp_juego20\juego_20\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	"rlutil.h"
+	"funciones-juego.h"
+
+1624054313 c:\users\54114\onedrive - frgp.utn.edu.ar\frgp -utn\lab 1\tp_juego20\juego_20\funciones-juego.h
+
+1571584339 c:\users\54114\onedrive - frgp.utn.edu.ar\frgp -utn\lab 1\tp_juego20\juego_20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1571584339 c:\users\danie\desktop\juego_20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624634587 source:c:\users\karina\desktop\juego_20\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	"rlutil.h"
+	"funciones-juego.h"
+
+1571584339 c:\users\karina\desktop\juego_20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624634665 c:\users\karina\desktop\juego_20\funciones-juego.h
+
+1626095025 source:c:\users\karina\desktop\juego_20_fede\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	"rlutil.h"
+	"funciones-juego.h"
+
+1571584339 c:\users\karina\desktop\juego_20_fede\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1626095083 c:\users\karina\desktop\juego_20_fede\funciones-juego.h
+
+1624752879 source:c:\users\danie\desktop\juego_20_fede\juego_20_fede\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	"rlutil.h"
+	"funciones-juego.h"
+
+1571584339 c:\users\danie\desktop\juego_20_fede\juego_20_fede\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624752606 c:\users\danie\desktop\juego_20_fede\juego_20_fede\funciones-juego.h
+
+1624924616 source:c:\users\karina\desktop\juego_20_fede2\juego_20_fede\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	"rlutil.h"
+	"funciones-juego.h"
+
+1571584339 c:\users\karina\desktop\juego_20_fede2\juego_20_fede\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624924689 c:\users\karina\desktop\juego_20_fede2\juego_20_fede\funciones-juego.h
+
+1626657135 source:c:\users\karina\desktop\juego dados 20\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	"rlutil.h"
+	"funciones-juego.h"
+
+1571584339 c:\users\karina\desktop\juego dados 20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1626657278 c:\users\karina\desktop\juego dados 20\funciones-juego.h
+
